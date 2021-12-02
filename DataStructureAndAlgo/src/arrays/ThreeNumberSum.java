@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 /*
  * Given an array of Distinct Integer value and also gives a separate Integer value which is a Target Sum.
- * Write a method which will find the sum of two number present in that Array sums up to the Target Sum.
+ * Write a method which will find the sum of three number present in that Array sums up to the Target Sum.
  * 
  * e.g -> [12,3,1,2,-6,5,-8,6]  ,   0   Answer = [[-8,2,6],[-8,3,5],[-6,1,5]]
  * 
